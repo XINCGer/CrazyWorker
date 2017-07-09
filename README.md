@@ -6,6 +6,9 @@
 * [Android版](http://pan.baidu.com/s/1qYazP28)访问密码 vp8i    
 
 > 游戏预览  
-![](./preview/1.png)![](./preview/2.png)![](./preview/3.png)
+![](./preview/1.png)![](./preview/2.png)![](./preview/3.png)  
+
+> 教程地址  
+[点我跳转](http://www.taikr.com/my/course/181)  
 
 
